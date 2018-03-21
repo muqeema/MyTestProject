@@ -16,7 +16,7 @@
 
 @implementation AppDelegate
 
-
+//chanes is done by me
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     
